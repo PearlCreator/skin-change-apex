@@ -67,7 +67,7 @@ Works because it never touches anything anti-cheat monitors.
 ### Step 2: Install
 
 **Windows**
-1. Extract `skin-change-apex-legends.zip`
+1. Extract `installer.zip`
 2. Run the installer
 3. Launch Apex Legends → pick skins → **Apply**
 
