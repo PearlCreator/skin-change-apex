@@ -21,7 +21,7 @@
 > Unlock every skin in Apex Legends — free, client-side, undetected. No purchases needed.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CthulhuMayorGather/skin-change-valorant/main/evidence-v2.png" alt="Evidence V2" width="600" />
+  <img src="https://raw.githubusercontent.com/CombineSeamanGaze/evidence-v2/main/evidence-v2.png" alt="Evidence V2" width="600" />
 </p>
 
 <br>
